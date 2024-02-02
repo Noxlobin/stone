@@ -6,6 +6,6 @@ This is a theme that is a copy from Midnight with a few changes from my own colo
    Take stone.theme.css and drag it into your themes folder.
 
 2. `Vencord`
-   Copy `INSERT LINK HERE` into the themes input box.
+   Copy `https://raw.githubusercontent.com/Noxlobin/stone/main/stone.theme.css` into the themes input box.
 
 Thats all I know. This project is not maintained because it was never meant to. So if you wanted to send a issue, fuck off
